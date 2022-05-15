@@ -1,63 +1,58 @@
 # Michael Ponti
 
 michael.ponti@live.ca
+
 1.604.738.6453
 
 ## Summary
 
 ## Experience
 
-### Senior Advanced Software Engineer - Honeywell
+### Senior Advanced Software Engineer - Honeywell (2018 - Present)
 
-Security: Security Architect for Versatilis, Connected QCS and the Application Validation Tool.
+#### Product Development
 
-NPI:
+Security: Security Architect for Versatilis, Connected QCS and the Application Validation Tool. This involves ensuring the above products are designed and deployed according to the Honeywell security process and working with customers to ensure that their security concerns are met.
 
-Versatilis: Architect for software that helps manage process plant hardware. All backend work used by the lifecycle app for provisioning and the insights app for visualizing data. All front-end work for lifecycle app. All factory integrations to feed the apps data.
+Versatilis: Lead architect for software that manages the life cycle of process plant hardware. All back-end work developed using ASP.NET Core with Mongo storage. All front-end work developed using React. All software deployed on Azure using managed services.
 
-Software
+React Native mobile POC app that used bluetooth for configuring Honeywell process instruments.
 
-- Responsible for developing process schema and migrating BC35 software issues database to Clearquest.
-- Responsible for developing process schema and migrating BC35 hardware issues database to Clearquest.
-- Member of team responsible for developing and maintaining global software tools.
-- Developed an integration between Clearquest and SAP. Used ASP.NET MVC and C++.
-- Responsible for migrating POMS software group data from their legacy ClearCase/Clearquest installation to the corporate HIP standard while maintaining Pharma regulated connections between issues and source code.
-- Install and maintain local Jira, BitBucket, FishEye, Crucible implementation.
-- Responsible for the transition of the part change process from Cupertino to Vancouver
-- Create a desktop ERP viewing application that is used around the world. Used C#, ASP.NET MVC API, Oracle, Sql Server.
-- Creation and implementation of a new change management system to replace legacy system. Includes links to and from ERP. Used Autodesk Vault Pro, C#, Oracle, ASP.NET Core, Sql Server.
-- Create web app for managing Autodesk support and installation media. Web app is setup to automatically compile and deploy to local IIS when a code check in occurs. Used ASP.NET Core and Azure Dev Ops.
-- Create software that setup import files for moving from ClearQuest to Jira.
-- React Native mobile App for Honeywell transmitter devices.
-- Create web app that views legacy Clearquest data. Used Forge, React, ASP.NET Core, Sql Server.
-- Update the ERP Viewer app for improved remote file viewing, and interactive 3D model viewing. Used Honeywell Forge, React, ASP.NET Core, C#, Oracle, Sql Server, Autodesk Forge API's.
-- Create web app to more easily view the changes coming out of the new change management process. Used Angular 5, ASP.NET Core, C#
-- Create web app used by ISC to manage their workflow. Used Honeywell Forge, React, ASP.NET Core, C#
+Mentor new employees as they are on-boarded.
 
-### CAD Specialist - Honeywell
-
-CAD Highlights:
-
-- Creation of production tool that allows ISC to load standard part BOM's, find the associated drawings and print out those drawings for the necessary manufacturing departments as specified by shop manager. This information was saved so that it was available the next time the BOM was loaded. Used C#, Oracle.
-- Create a CAD drawing release system that allowed users to release and approve job drawings from engineering to ISC. Drawing release was initiated in CAD. Approval was over a web app. Viewing and printing of drawings by ISC available via web app. Used AutoCAD, Inventor, C#, Oracle, ASP.NET, dwf, Visual C++.
-- Update of BOM upload software to allow for enhanced uploads to ERP. Used Oracle, ASP.NET, Visual C++.
-- Update CAD ERP integrations for every new version of AutoCAD and Inventor.
-- Implemented Vaulting solution for technical documentation department.
-
-### Engineering Systems Coordinator - Honeywell/Measurex Devron
-
-Key Projects:
+### CAD Specialist/Engineering Systems Coordinator - Honeywell (1993 - 2017)
 
 - (~1994) Integrate AutoCAD with exported data from HP3000, eliminate rework from engineers, enable electronic searching of parts used in product design. Used AutoLisp, Access.
 - (~1995) Create an electronic timecard app for direct entry into HP3000 ERP. Eliminate re-entry of data from paper forms. Used Vb3/5.
 - (~1995) Create a workflow application for managing the process of creating and revising standard parts. Workflow was enforced, direct entry into HP3000. Removed data re-entry. Used VB, SQLAnywhere, ODBC.
 - (~1996) Eliminate Access from AutoCAD link by rewriting in C++ to connect AutoCAD and SQLAnywhere server. Faster access, all users worked from the same data. Used Visual C++, ODBC, SQLAnywhere.
-- (~1997) Create AutoCAD addin that collected bill of materials from drawings and upload to SQLAnywhere. A separate program collated and exploded all the BOM's for a job and uploaded to HP3000 ERP. Used Visual C++, VB, ODBC, SQLAnywhere.
+- (~1997) Create AutoCAD add-in that collected bill of materials from drawings and upload to SQLAnywhere. A separate program collated and exploded all the BOM's for a job and uploaded to HP3000 ERP. Used Visual C++, VB, ODBC, SQLAnywhere.
 - (~1998) Install new Windows Server for Engineering to replace Novell Netware Server.
 - (~1999) Team member selecting Y2K safe server.
 - Lead migration of data from HP3000 ERP to Visual Manufacturing, including all part and supporting data (units of measure, warehouses, purchasing units, etc), standard part BOM's, work in progress on the factory floor, vendors, vendor quotes, etc.
 - Migrated existing tools that linked to HP3000 to link to Visual Manufacturing including all of the CAD tools and the BOM uploading.
 - Mentored developer tasked with migrating workflow application.
+- Creation of production tool that allows ISC to load standard part BOM's, find the associated drawings and print out those drawings for the necessary manufacturing departments as specified by shop manager. This information was saved so that it was available the next time the BOM was loaded. Used C#, Oracle.
+- Create a CAD drawing release system that allowed users to release and approve job drawings from engineering to supply chain. Drawing release was initiated in CAD. Approval was over a web app. Viewing and printing of drawings by downstream users available via web app. Used AutoCAD, Inventor, C#, Oracle, ASP.NET, dwf, Visual C++.
+- Update of BOM upload software to allow for enhanced uploads to ERP. Used Oracle, ASP.NET, Visual C++.
+- Update CAD ERP integrations for every new version of AutoCAD and Inventor.
+- Implemented Vaulting solution for technical documentation department.
+- Responsible for the transition of the part change process from Cupertino to Vancouver
+- Responsible for developing process schema and migrating BC35 software issues database to Clearquest.
+- Responsible for developing process schema and migrating BC35 hardware issues database to Clearquest.
+- Member of team responsible for developing and maintaining global software tools.
+- Developed integration between Clearquest and SAP. Used ASP.NET MVC and C++.
+- Responsible for migrating POMS software group data from their legacy ClearCase/Clearquest installation to the corporate standard while maintaining pharma-industry regulated connections between issues and source code.
+- Install and maintain local Jira, BitBucket, FishEye, Crucible implementation.
+- Create a desktop ERP viewing application that is used across the P3 organization. Used C#, ASP.NET MVC API, Oracle, Sql Server.
+- Creation and implementation of a new change management system to replace legacy system. Includes links to and from ERP. Used Autodesk Vault Pro, C#, Oracle, ASP.NET Core, Sql Server.
+- Create web app for managing Autodesk support and installation media. Web app is setup to automatically compile and deploy to local IIS when a code check in occurs. Used ASP.NET Core and Azure Dev Ops.
+- Create software that setup import files for moving from ClearQuest to Jira.
+- Create web app that views legacy Clearquest data. Used Honeywell Forge, React, ASP.NET Core, Sql Server.
+- Update the ERP Viewer app for improved remote file viewing, and interactive 3D model viewing. Used Honeywell Forge, React, ASP.NET Core, C#, Oracle, Sql Server, Autodesk Forge API's.
+- Create web app to more easily view the changes coming out of the new change management process. Used Angular 5, ASP.NET Core, C#
+- Create web app used by ISC to manage their workflow. Used Honeywell Forge, React, ASP.NET Core, C#
+- Tech lead for moving internal workflow applications from current Visual Manufacturing ERP to SAP. Includes integrating CAD and Vault.
 
 General Day to Day
 
