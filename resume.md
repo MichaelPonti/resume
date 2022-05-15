@@ -1,18 +1,16 @@
 # Michael Ponti
 
-michael.ponti@live.ca
+email: michael.ponti@live.ca
 
-1.604.738.6453
-
-## Summary
+cel: 1.604.738.6453
 
 ## Experience
 
-### Senior Advanced Software Engineer - Honeywell (2018 - Present)
+### Senior Advanced Software Engineer Honeywell (North Vancouver BC 2018 - Present)
 
-#### Product Development
+Large multi-national corporation engaged in a wide variety of business. The North Vancouver facility is focused in custom engineered and manufacture of high technology sheet industry machinery. The facility also has a sizable software development team focused on cloud software for the sheet and process industries.
 
-Security: Security Architect for Versatilis, Connected QCS and the Application Validation Tool. This involves ensuring the above products are designed and deployed according to the Honeywell security process and working with customers to ensure that their security concerns are met.
+Security: Cloud Security Architect for Versatilis, Connected QCS and the Application Validation Tool. This involves ensuring the above products are designed and deployed according to the Honeywell security process and working with customers to ensure that their security concerns are met.
 
 Versatilis: Lead architect for software that manages the life cycle of process plant hardware. All back-end work developed using ASP.NET Core with Mongo storage. All front-end work developed using React. All software deployed on Azure using managed services.
 
@@ -20,7 +18,7 @@ React Native mobile POC app that used bluetooth for configuring Honeywell proces
 
 Mentor new employees as they are on-boarded.
 
-### CAD Specialist/Engineering Systems Coordinator - Honeywell (1993 - 2017)
+### CAD Specialist/Engineering Systems Coordinator - Honeywell (North Vancouver BC Jul 1993 - 2017)
 
 - (~1994) Integrate AutoCAD with exported data from HP3000, eliminate rework from engineers, enable electronic searching of parts used in product design. Used AutoLisp, Access.
 - (~1995) Create an electronic timecard app for direct entry into HP3000 ERP. Eliminate re-entry of data from paper forms. Used Vb3/5.
@@ -62,9 +60,31 @@ General Day to Day
 - Manage Plotters and Printers
 - Standard part management workflow process
 
-### CAD Manager - PBK Consulting Ltd.
+### CAD Manager - PBK Consulting Ltd (Vancouver BC Nov 1990 - Jul 1993)
 
-### CAD Manager - Kokums Cancar
+PBK Engineering is multi-discipline consulting engineering firm responsible for the design and management of a variety of projects ranging from airports to bridges to manufacturing facilities. Responsible for developing productivity software enabling designers to work more efficiently and effectively.
+
+- Designed and developed an AutoCAD front-end that tracked time and organized drawings by department and project. The custom front-end also managed the creation and editing of drawings so that client/project specific standards and title blocks could be used with minimal user interaction.
+Developed using C++ and AutoLISP.
+
+- Designed and developed an AutoCAD front-end to automate plotting for the company's AutoCAD users. Users submit plot jobs from within AutoCAD and the software performs the plotting and charges the time to the appropriate project.
+Developed using C++ and AutoLISP.
+
+- Created 3D models of buildings and industrial machinery for design and presentation purposes.
+
+- Installed and deployed a Novell Netware network, migrating workstations and running cable for the individual workstations.
+
+### CAD Manager - Kokums Cancar (Surrey BC Sep 1988 - Nov 1990)
+
+Kockums Cancar was a sawmill Equipment manufacturer that specialized in automating the manufacturing of lumber from raw logs.
+
+- Developed a drawing archive and retrieval system using C and C-shell programs implemented on a Sun386i workstation and WORM drive.
+
+- Developed CAD standards and procedures for multiple disciplines while laying the groundwork for hooks into a future CAM system.
+
+- Developed general CAD utilities to improve drafting performance and efficiency.
+
+- Provided troubleshooting support and in-house training for CAD users.
 
 ## Other Experience
 
@@ -109,7 +129,7 @@ Contribute to the Prism open source library by updating all of their WPF documen
 
 ## Education
 
-### Bachelors
+### Bachelors (with honors)
 
 Computer Software Engineering
 British Columbia Institute of Technology
@@ -135,4 +155,17 @@ Over the course of a few days vacation, I built up an app that links live Vancou
 
 Competed against several dozen teams globally over the course of a weekend. Built up an app that runs inside of Autodesk Inventor and hooks up the geometry data with users's part meta data hosted inside of Autodesk cloud PLM.
 
-## Interests
+## Volunteer
+
+### North Shore Riding Society Ride Leader/Director of Communications/Schedule Coordinator (North Vancouver 2007 - 2018)
+
+A not-for-profit society that brings mountain bikers from the lower mainland of all levels for group rides. Duties include providing leadership to riders to ride in safe and sustainable manner and ensure an inclusive and fun experience. In charge of maintaining the website, general communications and marketing collateral.
+
+### ALS Adventure Challenge - Ride Leader (North Vancouver 2005 - 2008)
+
+Provided mountain bike instruction for new riders participating in the ALS Adventure Challenge race. The race was to raise money for ALS society. Duties were to provide new riders with technical instruction on biking and make it fun so they would return.
+
+### Pedals and Pints - Ride Leader (North Vancouver 2004 – 2006)
+
+Performed ride leading for groups of mountain bikers in North Vancouver. Principal duty was to provide a safe and inclusive experience for all riders that came out so that they would become enthused about riding.
+
