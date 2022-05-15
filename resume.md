@@ -92,17 +92,17 @@ Kockums Cancar was a sawmill Equipment manufacturer that specialized in automati
 
 Independent developer doing end to end publishing of small applications in the Autodesk App Store. This includes concept, development, testing, deploy, documentation, support and maintenance.
 
-- Your BOM Tools: Utility to export bills of material from Inventor using your own format.
+- **Your BOM Tools**: Utility to export bills of material from Inventor using your own format.
 
-- Mega Make Components: Inventor utility that will export surface bodies in your part to separate components.
+- **Mega Make Components**: Inventor utility that will export surface bodies in your part to separate components.
 
-- Properdizer: Inventor utility that allows individual and batch editing of properties anywhere within the loaded assembly.
+- **Properdizer**: Inventor utility that allows individual and batch editing of properties anywhere within the loaded assembly.
 
-- Parts List Editor: Inventor utility that allows editing of the data that drives the parts list data at the source of the data.
+- **Parts List Editor**: Inventor utility that allows editing of the data that drives the parts list data at the source of the data.
 
-- PLM360 Attach: From Inventor, access an Autodesk PLM360 and associate the model with an item in the tenant.
+- **PLM360 Attach**: From Inventor, access an Autodesk PLM360 and associate the model with an item in the tenant.
 
-- PLM360 Attach Design: From AutoCAD, access an Autodesk PLM360 and associate the model with an item in the tenant.
+- **PLM360 Attach Design**: From AutoCAD, access an Autodesk PLM360 and associate the model with an item in the tenant.
 
 ### Open Source Contributions
 
