@@ -10,13 +10,10 @@ cel: 1.604.738.6453
 
 Large multi-national corporation engaged in a wide variety of business. The North Vancouver facility is focused in custom engineered and manufacture of high technology sheet industry machinery. The facility also has a sizable software development team focused on cloud software for the sheet and process industries.
 
-Security: Cloud Security Architect for Versatilis, Connected QCS and the Application Validation Tool. This involves ensuring the above products are designed and deployed according to the Honeywell security process and working with customers to ensure that their security concerns are met.
-
-Versatilis: Lead architect for software that manages the life cycle of process plant hardware. All back-end work developed using ASP.NET Core with Mongo storage. All front-end work developed using React. All software deployed on Azure using managed services.
-
-React Native mobile POC app that used bluetooth for configuring Honeywell process instruments.
-
-Mentor new employees as they are on-boarded.
+- Security: Cloud Security Architect for Versatilis, Connected QCS and the Application Validation Tool. This involves ensuring the above products are designed and deployed according to the Honeywell security process and working with customers to ensure that their security concerns are met.
+- Versatilis: Lead architect for software that manages the life cycle of process plant hardware. All back-end work developed using ASP.NET Core with Mongo storage. All front-end work developed using React. All software deployed on Azure using managed services.
+- React Native mobile POC app that used bluetooth for configuring Honeywell process instruments.
+- Mentor new employees as they are on-boarded.
 
 ### CAD Specialist/Engineering Systems Coordinator - Honeywell (North Vancouver BC Jul 1993 - 2017)
 
@@ -66,12 +63,9 @@ PBK Engineering is multi-discipline consulting engineering firm responsible for 
 
 - Designed and developed an AutoCAD front-end that tracked time and organized drawings by department and project. The custom front-end also managed the creation and editing of drawings so that client/project specific standards and title blocks could be used with minimal user interaction.
 Developed using C++ and AutoLISP.
-
 - Designed and developed an AutoCAD front-end to automate plotting for the company's AutoCAD users. Users submit plot jobs from within AutoCAD and the software performs the plotting and charges the time to the appropriate project.
 Developed using C++ and AutoLISP.
-
 - Created 3D models of buildings and industrial machinery for design and presentation purposes.
-
 - Installed and deployed a Novell Netware network, migrating workstations and running cable for the individual workstations.
 
 ### CAD Manager - Kokums Cancar (Surrey BC Sep 1988 - Nov 1990)
@@ -79,11 +73,8 @@ Developed using C++ and AutoLISP.
 Kockums Cancar was a sawmill Equipment manufacturer that specialized in automating the manufacturing of lumber from raw logs.
 
 - Developed a drawing archive and retrieval system using C and C-shell programs implemented on a Sun386i workstation and WORM drive.
-
 - Developed CAD standards and procedures for multiple disciplines while laying the groundwork for hooks into a future CAM system.
-
 - Developed general CAD utilities to improve drafting performance and efficiency.
-
 - Provided troubleshooting support and in-house training for CAD users.
 
 ## Other Experience
@@ -168,4 +159,3 @@ Provided mountain bike instruction for new riders participating in the ALS Adven
 ### Pedals and Pints - Ride Leader (North Vancouver 2004 – 2006)
 
 Performed ride leading for groups of mountain bikers in North Vancouver. Principal duty was to provide a safe and inclusive experience for all riders that came out so that they would become enthused about riding.
-
