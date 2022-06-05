@@ -166,3 +166,4 @@ Provided mountain bike instruction for new riders participating in the ALS Adven
 
 Performed ride leading for groups of mountain bikers in North Vancouver. Principal duty was to provide a safe and inclusive experience for all riders that came out so that they would become enthused about riding.
 
+Last Updated June 6 2022
