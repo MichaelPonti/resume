@@ -6,16 +6,17 @@ cel: 1.604.738.6453
 
 ## Experience
 
-### Senior Advanced Software Engineer Honeywell (North Vancouver BC 2018 - Present)
+### Senior Advanced Software Engineer Honeywell (North Vancouver BC 2017 - Present)
 
 Large multi-national corporation engaged in a wide variety of business. The North Vancouver facility is focused in custom engineered and manufacture of high technology sheet industry machinery. The facility also has a sizable software development team focused on cloud software for the sheet and process industries.
 
 - Security: Cloud Security Architect for Versatilis, Connected QCS and the Application Validation Tool. This involves ensuring the above products are designed and deployed according to the Honeywell security process and working with customers to ensure that their security concerns are met.
 - Versatilis: Lead architect for software that manages the life cycle of process plant hardware. All back-end work developed using ASP.NET Core with Mongo storage. All front-end work developed using React. All software deployed on Azure using managed services.
 - React Native mobile POC app that used bluetooth for configuring Honeywell process instruments.
-- Mentor new employees as they are on-boarded.
+- Lead architect for Production engineering tools, web apps, CAD add-ins etc to new SAP instance.
+- Mentor new employees as they are on-boarded
 
-### CAD Specialist/Engineering Systems Coordinator - Honeywell (North Vancouver BC Jul 1993 - 2017)
+### CAD Specialist/Engineering Systems Coordinator - Honeywell (North Vancouver BC Jul 1993 - 2016)
 
 - (~1994) Integrate AutoCAD with exported data from HP3000, eliminate rework from engineers, enable electronic searching of parts used in product design. Used AutoLisp, Access.
 - (~1995) Create an electronic timecard app for direct entry into HP3000 ERP. Eliminate re-entry of data from paper forms. Used Vb3/5.
