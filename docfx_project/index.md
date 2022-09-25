@@ -90,6 +90,8 @@ Kockums Cancar was a sawmill Equipment manufacturer that specialized in automati
 
 Independent developer doing end to end publishing of small applications in the Autodesk App Store. This includes concept, development, testing, deploy, documentation, support and maintenance.
 
+- **Sketch Block Manager**: Inventor utility to use sketch blocks that are stored in centrally located files to quickly and easily add them to your sketch.
+
 - **Your BOM Tools**: Utility to export bills of material from Inventor using your own format.
 
 - **Mega Make Components**: Inventor utility that will export surface bodies in your part to separate components.
