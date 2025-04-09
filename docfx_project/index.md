@@ -10,11 +10,11 @@ cel: 1.604.738.6453
 
 Large multi-national corporation engaged in a wide variety of business. The North Vancouver facility is focused in custom engineered and manufacture of high technology sheet industry machinery. The facility also has a sizable software development team focused on cloud software for the sheet and process industries.
 
-- Security: Cloud Security Architect for Versatilis, Connected QCS and the Application Validation Tool. This involves ensuring the above products are designed and deployed according to the Honeywell security process and working with customers to ensure that their security concerns are met.
+- Security: Security Advocate for Versatilis, Connected QCS and the Application Validation Tool. Completed multiple reviews for each of these products. This involves ensuring the above products are designed and deployed according to the Honeywell SDLC and working with customers to ensure that their security concerns are met.
+- Connected QCS4.0: This involved working on modernizing infrastructure and code to stay up to date with latest infrastructure and code. Architect for new data pipeline to support customers that do not permit the external devices that normally push devices from the customer to the Honeywell cloud.
 - Versatilis: Lead architect for software that manages the life cycle of process plant hardware. All back-end work developed using ASP.NET Core with Mongo storage. All front-end work developed using React. All software deployed on Azure using managed services.
 - React Native mobile POC app that used bluetooth for configuring Honeywell process instruments.
 - Lead architect for Production engineering tools, web apps, CAD add-ins etc to new SAP instance.
-- Mentor new employees as they are on-boarded
 
 ### CAD Specialist/Engineering Systems Coordinator - Honeywell (North Vancouver BC Jul 1993 - 2016)
 
@@ -33,7 +33,7 @@ Large multi-national corporation engaged in a wide variety of business. The Nort
 - Update of BOM upload software to allow for enhanced uploads to ERP. Used Oracle, ASP.NET, Visual C++.
 - Update CAD ERP integrations for every new version of AutoCAD and Inventor.
 - Implemented Vaulting solution for technical documentation department.
-- Responsible for the transition of the part change process from Cupertino to Vancouver
+- Responsible for the transition of the part management process from Cupertino to Vancouver
 - Responsible for developing process schema and migrating BC35 software issues database to Clearquest.
 - Responsible for developing process schema and migrating BC35 hardware issues database to Clearquest.
 - Member of team responsible for developing and maintaining global software tools.
@@ -143,6 +143,14 @@ British Columbia Institute of Technology
 
 ## Awards
 
+### 2023 HPS Premier Achievement Award - Innovation of the Year
+
+Awarded for work on the Versatilis Lifecycle and Insights Apps.
+
+### 2022 Vancouver Systems Team Recognition
+
+Awared for work bringing SAP to production at the Vancouver location.
+
 ### Honeywell Vancouver MacGyver Award - Apr 2021
 
 Annual award in Vancouver Engineering that goes to the person that shows a willingness to get things done despite the obstacles.
@@ -170,3 +178,4 @@ Provided mountain bike instruction for new riders participating in the ALS Adven
 Performed ride leading for groups of mountain bikers in North Vancouver. Principal duty was to provide a safe and inclusive experience for all riders that came out so that they would become enthused about riding.
 
 Last Updated June 6 2022
+Last Updated April 9 2025
