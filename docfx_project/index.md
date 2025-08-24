@@ -6,6 +6,14 @@ cel: 1.604.738.6453
 
 ## Experience
 
+### Cloud Architect Geco Strategic Weed Management  (North Vancouver BC June 2023 - Present)
+
+Geco Strategic Weed Management leverages data on and above farm fields into agronomic models to nip weed problems in the bud. Working with North American farms on their most challenging weed issues.
+
+- Design and build REST API to manage customer experience with app.
+- Implement web app that provides a user friendly front-end for the customer to work with Geco and for Geco to manage deliverables to customer.
+- Implement and deploy Azure resources to deliver customer services.
+
 ### Senior Advanced Software Engineer Honeywell (North Vancouver BC 2017 - Present)
 
 Large multi-national corporation engaged in a wide variety of business. The North Vancouver facility is focused in custom engineered and manufacture of high technology sheet industry machinery. The facility also has a sizable software development team focused on cloud software for the sheet and process industries.
